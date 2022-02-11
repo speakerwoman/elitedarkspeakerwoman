@@ -12,6 +12,10 @@ body {
     color: #fff;
     font-family: "Source Sans Pro", sans-serif;
 }
+a {
+	color: #fff;
+	text-decoration:underline;
+}
 
 a:link {
     color: #fff;
