@@ -30,38 +30,6 @@ pre, code {
     white-space: pre-wrap;
 }
 
-body {
-    user-select: none;
-    overflow: hidden;
-    overflow-x: hidden;
-    overflow-y: hidden;
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-    background-image: linear-gradient(-45deg, rgb(238, 119, 82), rgb(231, 60, 126), rgb(35, 166, 213), rgb(35, 213, 171));
-    background-position-x: initial;
-    background-position-y: initial;
-    background-size: 400% 400%;
-    background-repeat-x: initial;
-    background-repeat-y: initial;
-    background-attachment: initial;
-    background-origin: initial;
-    background-clip: initial;
-    background-color: initial;
-    background-size: 400% 400%;
-    animation: gradient 15s ease infinite;
-    animation-duration: 15s;
-    animation-timing-function: ease;
-    animation-delay: 0s;
-    animation-iteration-count: infinite;
-    animation-direction: normal;
-    animation-fill-mode: none;
-    animation-play-state: running;
-    animation-name: gradient;
-    margin: 0;
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-}
 div.root, div.body {
     display: flex;
     flex: 1;
