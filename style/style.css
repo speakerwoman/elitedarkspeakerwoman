@@ -31,7 +31,7 @@ pre, code {
 }
 
 body {
-    background-image: url(https://github.com/Mist0090/mist.malwarewatch.github.io/raw/main/style/blue.jpg);
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
     background-size: cover;
     background-repeat: no-repeat;
 }
